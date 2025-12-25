@@ -12,7 +12,16 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+a=145
+a1=eval(input())
+if a==a1:
+    print("Number is a strong number")
+else:
+    print("Number is NOT a strong number")
 
 ## Output
+<img width="777" height="201" alt="image" src="https://github.com/user-attachments/assets/c05ade56-604d-4f45-b0af-0b9646a5184d" />
+
 
 ## Result
+Thus,the python program to check if the given number is equal to 145 using if-else is executed successfully.
