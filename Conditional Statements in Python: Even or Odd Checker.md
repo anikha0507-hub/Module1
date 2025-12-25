@@ -13,17 +13,17 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 ```
-a=145
-a1=eval(input())
-if a==a1:
-    print("Number is a strong number")
+a=int(input())
+if(a%2==0):
+    print("EVEN")
 else:
-    print("Number is NOT a strong number")
+    print("ODD")
 ```
 
 ## Output
-<img width="777" height="201" alt="image" src="https://github.com/user-attachments/assets/c05ade56-604d-4f45-b0af-0b9646a5184d" />
+<img width="472" height="371" alt="image" src="https://github.com/user-attachments/assets/f3d216da-640e-4698-8f21-83bae18387c0" />
+
 
 
 ## Result
-Thus,the python program to check if the given number is equal to 145 using if-else is executed successfully.
+Thus,the python program to check if the given number is odd or even using if-else is executed successfully.
